@@ -38,7 +38,7 @@ public class BubbleSortApp
             br.close();
         }
         catch(Exception e){
-            System.out.println("Gagal membuka file "+e);
+            System.out.println("Gagal membuka file");
         }
     }
 }
