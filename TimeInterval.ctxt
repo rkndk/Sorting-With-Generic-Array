@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TimeInterval()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TimeInterval\n
+comment1.params=
+comment1.target=void\ startTiming()
+comment2.params=
+comment2.target=void\ endTiming()
+comment3.params=
+comment3.target=double\ getElapsedTime()
+numComments=4
